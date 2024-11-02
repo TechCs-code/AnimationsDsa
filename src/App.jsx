@@ -18,7 +18,7 @@ import TwoSumAnimation from '@/components/animations/interactive/TwoSumAnimation
 
 function App() {
     return (
-        <Router>
+        <Router basename="/AnimationsDsa">
             <div className="App">
                 <Routes>
                     {/* Routes for gif animations */}
